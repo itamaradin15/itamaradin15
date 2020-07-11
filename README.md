@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 <img align="right" width="274" height="237" src="https://www.pinclipart.com/picdir/big/571-5718253_golang-gopher-png-clipart.png">
 
 
-# Hi, I'm Renan Bastos 👋
+# Hi, I'm Itamar Garcia 👋
 
-- 🔭 I'm currently working as a Software Engineer at [Azion Technologies](https://github.com/aziontech)
+- 🔭 I'm currently working as a Software Engineer at [Manzana Verde](https://manzanaverde.la/)
 - 😎 I'm currently contributing to [Go Fiber](https://github.com/gofiber/fiber)
-- :earth_americas: I'm from Porto Alegre, RS - Brazil
-- :video_game: I like to play video games
-- :notes: I like to play the piano (:musical_keyboard:)
+- :earth_americas: I'm living in from Lima, Peru
+- :video_game: I like to watch movies
+- :notes: I like to listen music (:musical_keyboard:)
 
 
 ## Social media :mailbox_with_no_mail:
