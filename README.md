@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working as a Software Engineer at [Manzana Verde](https://manzanaverde.la/)
 - 🌱 I’m currently learning ...[Tensorflow](https://tensorflow.org)
+- 🤔 I’m helping people in ...[Stackoverflow](https://stackoverflow.com/users/4601557/itamar-garcia)
 - :earth_americas: I'm living in Lima, Peru
 - :video_game: I like to watch movies
 - :notes: I like to listen music (:musical_keyboard:)
