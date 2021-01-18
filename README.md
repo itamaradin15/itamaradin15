@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - :video_game: I like to watch movies
 - :notes: I like to listen music (:musical_keyboard:)
 
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=solrac97gr&show_icons=true&hide_border=true)
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=itamaradin15&show_icons=true&hide_border=true)
 
 
 ## Technologys:
