@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Itamar Garcia 👋
 
-- 🔭 I'm currently working as CTO at [Manzana Verde](https://manzanaverde.la/)
+- 🔭 I'm currently working as Tech Lead at [Manzana Verde](https://manzanaverde.la/)
 - 🌱 I’m currently learning ...[Python](https://python.org)
 - 🤔 I’m helping people in ...[Stackoverflow](https://stackoverflow.com/users/4601557/itamar-garcia)
 - :earth_americas: I'm living in Lima, Peru
